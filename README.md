@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-alan-dos-santos-5278b437a">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="assets/icons/linkedin.png"/>
   </a>
 </p>
 
